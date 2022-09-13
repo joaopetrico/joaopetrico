@@ -2,4 +2,4 @@
 
 https://Instagram.com/j.petrico
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](httml://Instagram.com/j.petrico)
+[![Block](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://Instagram.com/j.petrico)]
