@@ -1,5 +1,3 @@
-### aluno do 🌶️
+### aluno do 🌶️ 1°A
 
-https://Instagram.com/j.petrico
-
-[![Block](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://Instagram.com/j.petrico)]
+![Instagram](https://img.shields.io/badge/Isntagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)https://instagram.com/j.petrico
