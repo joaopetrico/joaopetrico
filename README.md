@@ -1,4 +1,5 @@
-### aluno do 🌶️ 1°A
+ola sou Joao Gabriel aluno do 🌶️ 1°A
+aou aluno do AlZulin
 
 
 
