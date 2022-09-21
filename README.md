@@ -8,10 +8,4 @@ aou aluno do AlZulin
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
+<img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/joaopetrico.png">
