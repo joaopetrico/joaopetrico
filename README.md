@@ -8,4 +8,3 @@ aou aluno do AlZulin
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/joaopetrico.png">
